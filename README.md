@@ -4,5 +4,5 @@
 
 | Slides(talks.godoc.org) | Time |
 |---- | ---- |
-|[why learn golang?](https://go-talks.appspot.com/github.com/jiweiyuan/slides/why-learn-go/why-learn-go.slide) | 20210802 |
+|[why learn golang?](https://go-talks.appspot.com/github.com/jiweiyuan/slides/why-learn-go.slide) | 20210802 |
 |[Golang present?](https://go-talks.appspot.com/github.com/jiweiyuan/slides/go-present/go-present.slide) | 20210803 |
