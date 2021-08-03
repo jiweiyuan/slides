@@ -1,18 +1,19 @@
-Why Learn Golang?
+# Why Learn Golang?
+
 My Personal Insight!
-Tags: foo, bar, baz
+Tags: Golang, bar, baz
 
 YuanJiwei
 A Programmer!
 ji-weiyuan@outlook.com
-[[http://www.yuanjiwei.com][Blog]]
+http://www.yuanjiwei.com
 
-* Why Learn Go?
+## Why Learn Go?
 
 - Learn Second Programming Languages
 - Learn Backend Develop
 
-* Why Select Golang?
+## Why Select Golang?
 
 - Web: Go <-- node.js / php / ruby / Python
 - Frontend Tools: JavaScript(node.js) -> Go / Rust
@@ -21,13 +22,13 @@ ji-weiyuan@outlook.com
 
 Simpler than Java, Better than JavaScript(Node.js)
 
-* Go Job in China?
+## Go Job in China?
 
 - ByteDance: Go (First Language)
 - Baidu/DiDi/Tencent: (GO Second Language)
 - zhihu / Grab / qiniu / aliyun
 
-* Go vs Java
+##Go vs Java
 
 Java： Web(API) BigData Business System 电商 Finance
 

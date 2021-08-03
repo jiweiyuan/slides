@@ -1,0 +1,55 @@
+# Go Presenet
+
+A Tool of Writing Web PPT!
+Tags: Golang, Slide, PPT
+3 August 2021
+
+YuanJiwei (袁继伟)
+Programmer!
+ji-weiyuan@outlook.com
+https://www.yuanjiwei.com
+https://www.github.com/jiweiyuan/
+
+## Demo
+
+.link https://talks.golang.org
+.link https://github.com/golang/talks
+
+.iframe https://talks.golang.org/2019/playground-v3/playground-v3.slide  500 960
+
+## Introduction
+
+.link https://pkg.go.dev/golang.org/x/tools/present
+
+## Installation
+
+    // 下载
+    go get -u golang.org/x/tools/cmd/present
+    // 安装
+    go install golang.org/x/tools/cmd/present
+
+## Web Service
+
+- https://talks.godoc.org
+- https://go-talks.appspot.com
+
+.link https://talks.godoc.org/github.com/jiweiyuan/slides/go-present.slide
+
+## VSCode Editor
+
+treat other file extentions as specific languages.
+
+settiing.json
+
+
+    files.associations": {
+        "*.slide": "markdown"
+    }
+
+
+## Code JavaScript
+
+    
+## References
+
+.link https://talks.godoc.org reference and tutorials
