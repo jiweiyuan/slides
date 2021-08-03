@@ -14,8 +14,39 @@ https://www.github.com/jiweiyuan/
 
 .link https://talks.golang.org
 .link https://github.com/golang/talks
-
 .iframe https://talks.golang.org/2019/playground-v3/playground-v3.slide  500 960
+
+
+* Why use present?
+
+* vs PPT / Keynote
+
+Pros:
+
+- easy to change
+- source code in my hand
+- focus to create
+
+Cons:
+
+- use by programmer
+- very simple
+
+* vs Slidev
+.link https://github.com/slidevjs/slidev Slidev
+
+Pros:
+
+- More Simple
+- Focus Presentation Outline
+- Tiny Size
+
+Cons:
+
+- simple
+
+If you want complex situation,using text-editor or IDE maybe a better choice!
+
 
 * Introduction
 
@@ -32,24 +63,20 @@ https://www.github.com/jiweiyuan/
 
 - https://talks.godoc.org
 - https://go-talks.apps.com
-
 .link https://talks.godoc.org/github.com/jiweiyuan/slides/go-present.slide
 
 * VSCode Editor
 
 treat other file extensions as specific languages.
 
-setting.json
-
-
+    /setting.json
     files.associations": {
         "*.slide": "markdown"
     }
 
+* Playground
 
-* Code JavaScript
-
-    
 * References
 
-.link https://talks.godoc.org reference and tutorials
+.link https://talks.godoc.org
+.link https://pkg.go.dev/golang.org/x/tools/present
