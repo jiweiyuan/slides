@@ -1,4 +1,4 @@
-Go Presenet
+golang.org/x/tools/present
 
 A Tool of Writing Web PPT!
 3 August 2021
@@ -31,15 +31,15 @@ https://www.github.com/jiweiyuan/
 * Web Service
 
 - https://talks.godoc.org
-- https://go-talks.appspot.com
+- https://go-talks.apps.com
 
 .link https://talks.godoc.org/github.com/jiweiyuan/slides/go-present.slide
 
 * VSCode Editor
 
-treat other file extentions as specific languages.
+treat other file extensions as specific languages.
 
-settiing.json
+setting.json
 
 
     files.associations": {
