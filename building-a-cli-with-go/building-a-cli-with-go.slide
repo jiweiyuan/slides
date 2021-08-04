@@ -1,0 +1,41 @@
+Building a CLI with Go
+Tags: Golang, CLI
+
+YuanJiwei
+A Programmer!
+ji-weiyuan@outlook.com
+http://www.yuanjiwei.com
+
+* What is CLI?
+
+* Fundamentals of CLI
+
+* Paradigm of CLI Construction
+
+* Framework for CLI
+
+.link https://github.com/spf13/cobra Cobra
+.link https://github.com/urfave/cli cli
+
+* Examples
+
+* ToDo CLI APP
+
+.link https://github.com/ABHINAV-SUREKA/toDoList
+
+* References: 
+
+.link https://www.educative.io/edpresso/how-to-use-cobra-in-golang
+.link https://www.qikqiak.com/post/create-cli-app-with-cobra/
+.link https://dev.to/divrhino/building-a-command-line-tool-with-go-and-cobra-3mjd How to build a CLI tool with Go and Cobra
+.link https://jogendra.dev/building-command-line-tools-in-go
+.link https://divrhino.com/articles/build-interactive-cli-app-with-go-cobra-promptui
+.link https://crossoverjie.top/2020/12/08/go/one-hour-write-cli-app/ 一个小时学会用 Go 编写命令行工具
+.link https://www.youtube.com/watch?v=W5qdsAEzgMI 12 Factor CLI Apps with Cobra | Markus Zimmermann
+.link https://www.youtube.com/watch?v=eMz0vni6PAw GopherCon 2019: Carolyn Van Slyck - Design Command-Line Tools People Love
+.link https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46 12 Factor CLI Apps
+
+* Resource
+
+.link https://github.com/spf13/cobra
+.link https://clig.dev/
