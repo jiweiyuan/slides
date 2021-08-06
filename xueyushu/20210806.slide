@@ -1,0 +1,55 @@
+Small Talk
+
+2021-08-06
+https://github.com/xueyushu
+
+* Outline
+
+- State of Programming Languages
+- Golang
+- English
+
+* State of Programming Languages
+
+* Important Developer's Survery
+
+.link https://www.jetbrains.com/lp/devecosystem-2021/
+.link https://insights.stackoverflow.com/survey/2021
+
+* Golang
+
+* Why Learn Golang
+
+.link https://go-talks.appspot.com/github.com/jiweiyuan/slides/why-learn-go/why-learn-go.slide
+
+* How to Learn Golang
+
+- Language (keyword,types,statement,sequence, branch, loop, built-in struct)
+- Special Languages (e.g. JavaScript: Promise, event loop, async/await, Golang: goroutine)
+- Function
+- OOP
+- Module(Structured programming)
+- Domain Framework (Domain paradigm, e.g. Backend: gin, CLI: cobra)
+- Standard Library & Domain Library
+- Testing
+- Toolchain (install, build, publish)
+- CI/CD
+- Best(Effctive) Practice
+
+
+* English
+
+- English is Working Languages of Programmer
+
+* How to Become Proficent in English
+
+Use It
+
+- Listening 
+- Speaking 
+- Reading
+- Writing
+
+* Next Plan
+
+* small talks once a week
